@@ -101,7 +101,7 @@
                                 @endif
                             </div>
                             <span class="text-sm font-bold text-emerald-800">
-                                P{{ number_format((float) $dish->price, 2) }}
+                                ₱{{ number_format((float) $dish->price, 2) }}
                             </span>
                         </li>
                     @endforeach

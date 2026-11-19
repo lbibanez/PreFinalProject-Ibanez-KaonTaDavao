@@ -1,7 +1,7 @@
-# Kaon Ta! Davao — Ibanez's Food Guide
+# Kaon Ta! Davao – Ibanez's Food Guide
 
-**Name:** Luis Ibanez
-**Course:** 4-334 CS Elective 2 — Full-Stack Development (Laravel)
+**Name:** Luis Ibanez  
+**Course:** 4-334 CS Elective 2 — Full-Stack Development (Laravel)  
 **Repository:** `PrefinalProject-Ibanez-KaonTaDavao`
 
 ## Setup Commands
@@ -23,9 +23,9 @@ php artisan serve
 ## Personalized Data
 
 - **Districts (6):** Poblacion, Talomo, Agdao, Buhangin, Toril, Calinan
-- **Features (6):** Suki ni Ibanez, Budget Meal, Halal, Open 24 Hours, Aircon, Dine-In
+- **Features (6):** Suki ni Ibanez, Budget Meal, Halal, Open 24 Hours, Aircon, Free Sabaw
 - **Seeded Users (2):**
-  - `Ibanez` (`ibanez@kaonta.test`)
+  - `Luis Ibanez` (`ibanez@kaonta.test`)
   - `Tita Ibanez` (`tita.ibanez@kaonta.test`)
 - **Hand-Made Eatery:**
   - **Name:** `Carinderia ni Ibanez`

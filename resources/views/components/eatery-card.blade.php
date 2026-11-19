@@ -2,10 +2,10 @@
 
 @php
     $priceSymbol = match ($eatery->price_range) {
-        'budget' => 'P',
-        'mid' => 'PP',
-        'splurge' => 'PPP',
-        default => 'P',
+        'budget' => '₱',
+        'mid' => '₱₱',
+        'splurge' => '₱₱₱',
+        default => '₱',
     };
     $reviewCount = $eatery->reviews_count ?? 0;
     $avgRating = $eatery->reviews_avg_rating;
