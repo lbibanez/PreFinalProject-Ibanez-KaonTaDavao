@@ -1,6 +1,6 @@
 # Kaon Ta! Davao — Ibanez's Food Guide
 
-**Student Name:** [Firstname] Ibanez  
+**Student Name:** Luis Ibanez  
 **Course:** 4-334 CS Elective 2 — Full-Stack Development (Laravel)  
 **Repository:** `PrefinalProject-Ibanez-KaonTaDavao`
 
@@ -26,8 +26,8 @@ php artisan serve
 
 ## Personalized Seed Data
 
-- **Districts (6):** Poblacion, Talomo, Agdao, Buhangin, Toril, Calinan *(update if you chose a different 6th allowed district)*[cite: 6]
-- **Features (6):** Suki ni Ibanez, Budget Meal, Halal, Open 24 Hours, Aircon, Dine-In *(update if you chose a different 6th feature)*[cite: 6]
+- **Districts (6):** Poblacion, Talomo, Agdao, Buhangin, Toril, Calinan [cite: 6]
+- **Features (6):** Suki ni Ibanez, Budget Meal, Halal, Open 24 Hours, Aircon, Dine-In [cite: 6]
 - **Seeded Users (2):**
   - `[Firstname] Ibanez` (`ibanez@kaonta.test`)[cite: 2, 6]
   - `Tita Ibanez` (`tita.ibanez@kaonta.test`)[cite: 2, 6]
@@ -39,7 +39,7 @@ php artisan serve
   - **Price Range:** `budget`[cite: 6]
   - **Specialty:** `Tinolang Manok`[cite: 6]
   - **Features:** `Suki ni Ibanez`, `Budget Meal`[cite: 6]
-  - **Permit Number & Expiry:** `DVO-2026-0415` (expiring `2027-04-15`) *(update `0415` to your actual birthday MMDD)*[cite: 2, 6]
+  - **Permit Number & Expiry:** `DVO-2026-0505` (expiring `2027-05-05`) *(update `0505` to your actual birthday MMDD)*[cite: 2, 6]
 
 ---
 
